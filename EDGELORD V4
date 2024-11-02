@@ -1,0 +1,6 @@
+edgelordsetting = {
+	HideClientVFX = false,
+	SlapstickPush = false
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Donjosx/SBScriptsLink/refs/heads/main/DonjoSx's-edgelord-FE.lua"))()
